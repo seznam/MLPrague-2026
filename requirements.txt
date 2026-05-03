@@ -1,0 +1,4 @@
+networkx
+torch-geometric
+
+-f https://data.pyg.org/whl/torch-2.8.0+cu128.html
