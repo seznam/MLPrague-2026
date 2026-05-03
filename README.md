@@ -1,4 +1,4 @@
-MLPrague 2026
+# MLPrague 2026
 
 ### Links to Hands-On Google Colab:
 1. [Introduction](https://colab.research.google.com/github/seznam/MLPrague-2026/blob/main/1-introduction.ipynb)
