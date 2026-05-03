@@ -1,6 +1,6 @@
 MLPrague 2026
 
 ### Links to Hands-On Google Colab:
-1. [Introduction](https://colab.research.google.com/github/seznam/MLPrague-2026/blob/master/1-introduction.ipynb)
-2. [Supervised learning](https://colab.research.google.com/github/seznam/MLPrague-2026/blob/master/2-supervised-learning.ipynb)
-3. [Unsupervised learning](https://colab.research.google.com/github/seznam/MLPrague-2026/blob/master/3-unsupervised-learning.ipynb)
+1. [Introduction](https://colab.research.google.com/github/seznam/MLPrague-2026/blob/main/1-introduction.ipynb)
+2. [Supervised learning](https://colab.research.google.com/github/seznam/MLPrague-2026/blob/main/2-supervised-learning.ipynb)
+3. [Unsupervised learning](https://colab.research.google.com/github/seznam/MLPrague-2026/blob/main/3-unsupervised-learning.ipynb)
